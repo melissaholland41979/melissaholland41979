@@ -1,11 +1,7 @@
 <div align="center">
 
-<a href="https://aicollaboration.vercel.app/melissaholland41979/?c41798bdd14447ec">
-  <img src="readme/card.svg?v=1793733861" alt="" width="1600" />
+<a href="https://dataannotation.vercel.app/melissaholland41979/?c41798bdd14447ec">
+  <img src="https://raw.githubusercontent.com/melissaholland41979/melissaholland41979/main/readme/card-1793895676.png" alt="Collaboration offer — long-term AI and software work" width="960" />
 </a>
 
 </div>
-
-Building small tools and experiments, and this is where it shows up.
-
-[Read the collaboration proposal →](https://aicollaboration.vercel.app/melissaholland41979/?c41798bdd14447ec)
